@@ -1,0 +1,24 @@
+h1{
+    font-size: 50Px;
+    margin: 10px;
+}
+p1{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+}
+body:not(#my){
+    background-image: url(image/ema.jpg);
+}
+ul{
+    font-size: 20px;;
+}
+li{
+    font-size: 40px ;
+}
+bt{
+    font-size: 80px;
+}
+#my{
+    background-image: url(image/edu.jpg);
+}
